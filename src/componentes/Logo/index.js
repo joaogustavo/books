@@ -18,7 +18,7 @@ function Logo() {
                 alt='Alura Books Logo'
                 className='logo-img'
             />
-            <p><strong>Alura</strong>Books</p>
+            <p><strong>Our</strong>Books</p>
         </LogoContainer>
     )
 }
