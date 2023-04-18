@@ -15,7 +15,7 @@ function Logo() {
         <LogoContainer>
             <LogoImage 
                 src={logo}
-                alt='Our Books Logo'
+                alt='Our Books'
                 className='logo-img'
             />
             <p><strong>Our</strong>Books</p>
